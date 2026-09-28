@@ -1,3 +1,5 @@
+export THEOS = $(HOME)/.theos
+
 TARGET := iphone:clang:16.5:14.0
 INSTALL_TARGET_PROCESSES = AlightMotion
 
