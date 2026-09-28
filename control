@@ -1,0 +1,9 @@
+Package: com.he.alighttweak
+Name: AlightTweak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Alight Motion unlocker
+Maintainer: He
+Author: He
+Section: Tweaks
